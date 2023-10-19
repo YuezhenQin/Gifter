@@ -5,7 +5,7 @@ Project Specification:
 
 
 ## Scrum Model in Software Development Life Cycle (SDLC)
-<img src="https://github.com/YuezhenQin/Gifter/assets/37969376/a647cfb9-d412-4278-89b1-679a38606bcc" width=40/>
+<img src="https://github.com/YuezhenQin/Gifter/assets/37969376/a647cfb9-d412-4278-89b1-679a38606bcc" width=90/>
 
 
  ## Timeline
