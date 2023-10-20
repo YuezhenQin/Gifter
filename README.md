@@ -1,6 +1,5 @@
 # Gifter
-Project: cpt202 Software Engineering Group Project
-Project Name: Gifter
+<p> Project Name: Gifter (cpt202 Software Engineering Group Project) </p>
 Project Team: Yuezhen Qin, CLY, JD, ZWH, CHJ, LKW
 
 ## Scrum Model in Software Development Life Cycle (SDLC)
