@@ -1,15 +1,7 @@
 # Gifter
 Project: cpt202 Software Engineering Group Project
 Project Name: Gifter
-Project Specification:
-
-
-| Item              | In Stock | Price |
-| :---------------- | :------: | ----: |
-| Python Hat        |   True   | 23.99 |
-| SQL Hat           |   True   | 23.99 |
-| Codecademy Tee    |  False   | 19.99 |
-| Codecademy Hoodie |  False   | 42.99 |
+Project Team: Yuezhen Qin, CLY, JD, ZWH, CHJ, LKW
 
 ## Scrum Model in Software Development Life Cycle (SDLC)
 <img src="https://github.com/YuezhenQin/Gifter/assets/37969376/a647cfb9-d412-4278-89b1-679a38606bcc" width=90/>
