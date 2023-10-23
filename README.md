@@ -3,13 +3,7 @@
 Project Team: 
 
 ## Report on Software Development Life Cycle (SDLC)
-
-| Project Details | Description | 
-| :---         |     :---:      |       
-| **Project Name**   | Gifter (A CPT202 Software Engineering Group Project)    | 
-| **Project Team**     | Yuezhen Qin, CLY, JD, ZWH, CHJ, LKW, XTY       | 
-
- ## Timeline
+### Timeline
 ![CPT202-Assignment2-GroupReport-Group33](https://github.com/YuezhenQin/Gifter/assets/37969376/edf8baee-c16f-40ce-bae1-4e7401d7a960)
 Figure 1. 10 Weeks (3.15(Week4)-5.21(Week14))
 
