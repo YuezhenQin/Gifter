@@ -66,3 +66,6 @@ Release management makes software deployment smooth and stable. This process is 
 After the software is deployed, the software maintenance lifecycle begins. Software requires ongoing maintenance to ensure that it operates at peak performance. Developers periodically issue software patches to fix bugs in the software and resolve any security issues.
 
 Maintenance activities also include performance monitoring of both the software’s technical performance and how users perceive its performance. Providing training and documentation to users, along with addressing user issues and upgrading their systems to make sure they’re compatible with the new software, are also key components of the software maintenance lifecycle.
+
+## Reference
+[1] Understanding the SDLC: Software Development Lifecycle Explained, https://resources.github.com/software-development/what-is-sdlc/
