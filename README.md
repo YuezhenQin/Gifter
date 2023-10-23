@@ -2,7 +2,7 @@
 <p> Project Name: Gifter (cpt202 Software Engineering Group Project) </p>
 Project Team: 
 
-## Software Development Life Cycle (SDLC)
+## Report on Software Development Life Cycle (SDLC)
 
 | Left-aligned | Center-aligned | 
 | :---         |     :---:      |       
