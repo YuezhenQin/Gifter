@@ -6,8 +6,8 @@ Project Team:
 
 | Left-aligned | Center-aligned | 
 | :---         |     :---:      |       
-| **Project Name**   | Gifter (cpt202 Software Engineering Group Project)    | 
-| **Project Team**     | Yuezhen Qin, CLY, JD, ZWH, CHJ, LKW       | 
+| **Project Name**   | Gifter (A CPT202 Software Engineering Group Project)    | 
+| **Project Team**     | Yuezhen Qin, CLY, JD, ZWH, CHJ, LKW, XTY       | 
 
  ## Timeline
 ![CPT202-Assignment2-GroupReport-Group33](https://github.com/YuezhenQin/Gifter/assets/37969376/edf8baee-c16f-40ce-bae1-4e7401d7a960)
