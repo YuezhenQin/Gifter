@@ -2,9 +2,7 @@
 <p> Project Name: Gifter (cpt202 Software Engineering Group Project) </p>
 Project Team: 
 
-## Scrum Model in Software Development Life Cycle (SDLC)
-<img src="https://github.com/YuezhenQin/Gifter/assets/37969376/a647cfb9-d412-4278-89b1-679a38606bcc" width=90/>
-
+## Software Development Life Cycle (SDLC)
 
 | Left-aligned | Center-aligned | 
 | :---         |     :---:      |       
