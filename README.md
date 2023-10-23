@@ -4,7 +4,7 @@ Project Team:
 
 ## Report on Software Development Life Cycle (SDLC)
 
-| Left-aligned | Center-aligned | 
+| Project Details | Description | 
 | :---         |     :---:      |       
 | **Project Name**   | Gifter (A CPT202 Software Engineering Group Project)    | 
 | **Project Team**     | Yuezhen Qin, CLY, JD, ZWH, CHJ, LKW, XTY       | 
