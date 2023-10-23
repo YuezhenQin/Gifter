@@ -1,4 +1,4 @@
-# Gifter
+# Gifter v1
 <p> Project Name: Gifter (cpt202 Software Engineering Group Project) </p>
 Project Team: 
 
