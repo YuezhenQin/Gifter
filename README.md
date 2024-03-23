@@ -9,6 +9,8 @@ Figure 1. 5 sprints in 10 Weeks (3.15(Week4)-5.21(Week14))
 
 
 ### Requirements gathering and analysis
+![IMG_6142](https://github.com/YuezhenQin/Gifter/assets/37969376/735b2891-b1f2-44e9-88c8-d38cf4d8f7c3)
+
 Accurate, complete, and measurable user requirements are the foundation for any successful SDLC project—to ensure that the software meets user expectations and to avoid costly rework and project delays. The IT business analyst:
 
 Gathers requirements by conducting interviews, holding workshops or focus groups, preparing surveys or questionnaires, and observing how stakeholders work.
